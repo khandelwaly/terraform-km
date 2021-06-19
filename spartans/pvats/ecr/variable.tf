@@ -18,5 +18,5 @@ variable "tags" {
 
 variable "region" {
   description = "AWS Region in which you are working"
-  default = "us-east-1"
+  default     = "us-east-1"
 }
